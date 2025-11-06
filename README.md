@@ -1,47 +1,62 @@
 # Hey there! 👋
 
-Software engineer building AI-powered tools and contributing to open source. Currently exploring the intersection of LLMs, developer tooling, and productivity apps.
+*Yes, I used Claude to help write this README. We're in 2025, let's be real.*
 
-## 🚀 What I'm building
+I'm a software engineer who builds things with AI and occasionally remembers to contribute back to the OSS projects I shamelessly depend on.
 
-Building with modern web stack (TypeScript/Next.js) and integrating cutting-edge AI models. Focus areas:
-- **AI-powered productivity tools** - Making workflows smarter
-- **Developer automation** - Because repetitive tasks are for robots
-- **FinOps tooling** - Cloud cost optimization and analysis
-- **OSS contribution frameworks** - Systematizing open source work
+## 🤖 What I'm Actually Building
 
-## 🛠️ Tech Stack
+Not another ChatGPT wrapper, I promise. Well, not *just* wrappers:
 
-**Frontend:** TypeScript, React, Next.js, Tailwind CSS
-**Backend:** Python, Node.js, PostgreSQL
-**AI/ML:** PyTorch, Transformers, OpenAI, Anthropic, Mistral
-**Infrastructure:** Docker, AWS, Vercel
+- **AI productivity tools** - Because apparently we need AI to be productive now
+- **Developer automation** - Teaching robots to do the boring stuff since 2025
+- **FinOps tooling** - Someone has to watch those OpenAI API bills spiral
+- **OSS contribution frameworks** - Systematically giving back to maintainers who deserve better
 
-## 🌟 Recent OSS Contributions
+## 🛠️ The Stack
 
-Contributing back to the tools I use daily:
+**Frontend:** TypeScript, Next.js, React (yes, I know Svelte exists)
+**Backend:** Python, Node.js, PostgreSQL (the boring reliable stuff)
+**AI/ML:** PyTorch, Transformers, OpenAI, Anthropic, Mistral (collecting API keys like Pokémon)
+**Infrastructure:** Docker, AWS, Vercel (pray the serverless cold starts are merciful)
 
-- **[Keras](https://github.com/keras-team/keras)** - Documentation improvements ([#21827](https://github.com/keras-team/keras/pull/21827) ✓ merged)
-- **[PyTorch](https://github.com/pytorch/pytorch)** - Code quality & type annotations ([#167241](https://github.com/pytorch/pytorch/pull/167241), [#167256](https://github.com/pytorch/pytorch/pull/167256))
-- Working across AI SDK libraries (OpenAI, Anthropic, Mistral, Together, Cerebras)
+## 🎯 Recent OSS Contributions
 
-## 📊 By the numbers
+Turns out you can actually contribute to the libraries you use instead of just starring them:
 
-![](https://img.shields.io/badge/commits-2.7k+-blue) ![](https://img.shields.io/badge/pull%20requests-239-green) ![](https://img.shields.io/badge/repos-60+-orange)
+- **[Keras](https://github.com/keras-team/keras)** - Fixed docs because reading is important ([#21827](https://github.com/keras-team/keras/pull/21827) ✓ merged)
+- **[PyTorch](https://github.com/pytorch/pytorch)** - Type annotations and code cleanup ([#167241](https://github.com/pytorch/pytorch/pull/167241), [#167256](https://github.com/pytorch/pytorch/pull/167256))
+- Working across AI SDK repos - Because one LLM provider is never enough
 
-## 💭 Currently interested in
+## 📊 Stats (that definitely matter)
 
-The latest in AI agents, LLM tooling, and making developers more productive. Following developments in:
-- Multi-agent systems and orchestration
-- RAG architectures and vector databases
-- Fine-tuning and model optimization
-- AI-native developer workflows
+![](https://img.shields.io/badge/commits-2.7k+-blue) ![](https://img.shields.io/badge/PRs-239-green) ![](https://img.shields.io/badge/repos-60+-orange) ![](https://img.shields.io/badge/coffee-∞-brown)
 
-## 📍 Memphis, TN
+## 💭 Current Obsessions
+
+Following the AI hype cycle very responsibly:
+
+- **Multi-agent systems** - Because one AI wasn't chaotic enough
+- **RAG architectures** - Turns out models don't actually know everything
+- **Context windows** - Remember when 8k tokens was impressive?
+- **Fine-tuning** - For when prompts just aren't cutting it
+- **AI-native workflows** - Whatever that means this week
+
+## 🎮 Fun Facts
+
+- I have more API keys than passwords (this is fine)
+- My `package.json` is 90% AI dependencies
+- I've starred 500+ repos I'll "definitely read later"
+- Yes, I tested this README with Claude. Meta, right?
+
+## 📍 Based in Memphis, TN
+
+Where the BBQ is fire and the internet is... adequate.
 
 🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
 
 ---
 
-*"Move fast and ship things. But make them good."*
+*"In a world full of GPT wrappers, be the person who actually reads the docs."*
 
+<sub>Last updated: Nov 2025 • Built with TypeScript, deployed on Vercel, debugged with Claude • This README is 100% organic, locally-sourced, artisanal markdown</sub>
