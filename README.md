@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-*Yes, I used Claude to help write this README. We're in 2025, let's be real.*
-
 I'm a software engineer who builds things with AI and occasionally remembers to contribute back to the OSS projects I shamelessly depend on.
 
 ## 🤖 What I'm Actually Building
@@ -47,7 +45,7 @@ Following the AI hype cycle very responsibly:
 - I have more API keys than passwords (this is fine)
 - My `package.json` is 90% AI dependencies
 - I've starred 500+ repos I'll "definitely read later"
-- Yes, I tested this README with Claude. Meta, right?
+- Contributing to OSS is cheaper than therapy
 
 ## 📍 Based in Memphis, TN
 
@@ -59,4 +57,4 @@ Where the BBQ is fire and the internet is... adequate.
 
 *"In a world full of GPT wrappers, be the person who actually reads the docs."*
 
-<sub>Last updated: Nov 2025 • Built with TypeScript, deployed on Vercel, debugged with Claude • This README is 100% organic, locally-sourced, artisanal markdown</sub>
+<sub>Last updated: Nov 2025 • Built with TypeScript • Deployed on Vercel • Runs on caffeine</sub>
