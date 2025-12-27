@@ -20,6 +20,9 @@ Software engineer building developer tools and AI infrastructure.
 
 Multi-agent systems, RAG, fine-tuning.
 
-## `$ ping`
+## Connect
 
-- 🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
+[Blog](https://yashwantbezawada.com) · [LinkedIn](https://linkedin.com/in/yashwantbezawada) · [GitHub](https://github.com/yashwantbezawada)
+
+- **GitHub Issues** - For project-specific discussions
+- **Pull Requests** - The best way to propose changes
