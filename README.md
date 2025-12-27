@@ -4,7 +4,7 @@ Software engineer working on AI tooling and infrastructure.
 
 ## What I Do
 
-Building AI productivity tools, developer automation, and cost tracking for LLM APIs. Contributing to open source - recently PyTorch and Keras.
+Building developer tools and automation, mostly around AI and LLMs these days.
 
 ## Currently Into
 
