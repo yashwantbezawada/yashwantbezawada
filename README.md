@@ -4,11 +4,11 @@ Software engineer working on AI tooling and infrastructure.
 
 ## What I Do
 
-I build AI productivity tools, developer automation, and FinOps solutions for tracking API costs. I also contribute to open source - recently been working on PyTorch and Keras.
+Building AI productivity tools, developer automation, and FinOps solutions for managing LLM API spend. Contributing to open source - recently been working on PyTorch type system and Keras documentation.
 
 ## Currently Into
 
-Multi-agent systems, RAG pipelines, and fine-tuning.
+Multi-agent orchestration, retrieval-augmented generation with hybrid search, and parameter-efficient fine-tuning.
 
 ---
 
