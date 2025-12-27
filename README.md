@@ -7,13 +7,9 @@ __   __       _                   _     ___                             _
 
 # Hey 👋
 
-Software engineer building developer tools and AI infrastructure. An engineer driven by curiosity.
+I'm a software engineer driven by curiosity, building developer tools and AI infrastructure. I spend a bit too much time on GitHub tackling a never-ending growing number of projects and ideas.
 
-I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub. Here's where I tackle a never-ending growing number of projects and ideas.
-
-I love Linux (I use Arch, btw), open-source software and Neovim. Helping around as much as I can.
-
-I'm an LLM enthusiast who's been lucky enough to get hands dirty building AI-powered tools and infrastructure - from RAG pipelines to multi-agent systems, along with the developer tooling to make it all work.
+I love Linux (I use Arch, btw), open-source software, and Neovim. An LLM enthusiast who's been lucky enough to get hands dirty building AI-powered tools - from RAG pipelines to multi-agent systems, along with the developer tooling to make it all work. Helping around as much as I can.
 
 ## `$ whoami`
 
