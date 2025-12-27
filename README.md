@@ -9,7 +9,7 @@ __   __       _                   _     ___                             _
 
 I'm a software engineer driven by curiosity, building developer tools and AI infrastructure. I spend a bit too much time on GitHub tackling a never-ending growing number of projects and ideas.
 
-I love Linux (I use Arch, btw), open-source software, and Neovim. An LLM enthusiast who's been lucky enough to get hands dirty building AI-powered tools - from RAG pipelines to multi-agent systems, along with the developer tooling to make it all work. Helping around as much as I can.
+I love Linux (I use Arch, btw), open-source software, and Neovim. A contributor to projects like PyTorch, Keras, and TensorFlow. An LLM enthusiast who's been lucky enough to get hands dirty building AI-powered tools - from RAG pipelines to multi-agent systems, along with the developer tooling to make it all work. Helping around as much as I can.
 
 ## `$ whoami`
 
