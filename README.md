@@ -9,7 +9,7 @@ __   __       _                   _     ___                             _
 
 Software engineer building developer tools and AI infrastructure.
 
-I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub.
+I love building and contributing to open-source projects in my free time. I spend a bit too much time on GitHub. Here's where I tackle a never-ending growing number of projects and ideas.
 
 ## `$ whoami`
 
