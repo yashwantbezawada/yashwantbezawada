@@ -22,7 +22,7 @@ Multi-agent systems, RAG, fine-tuning.
 
 ---
 
-## Connect
+## `$ ping`
 
 [![Blog](https://img.shields.io/badge/Blog-yashwantbezawada.com-FF5722?logo=hashnode&logoColor=white)](https://yashwantbezawada.com/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwantbezawada-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwantbezawada/)
