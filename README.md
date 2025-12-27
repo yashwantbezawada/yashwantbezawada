@@ -24,7 +24,7 @@ Multi-agent systems, RAG, fine-tuning.
 
 ## Connect
 
-[![Blog](https://img.shields.io/badge/Blog-yashwantbezawada.com-FF5722?logo=hashnode&logoColor=white)](https://yashwantbezawada.com)
+[![Blog](https://img.shields.io/badge/Blog-yashwantbezawada.com-FF5722?logo=hashnode&logoColor=white)](https://yashwantbezawada.com/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwantbezawada-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwantbezawada/)
 [![GitHub](https://img.shields.io/badge/GitHub-yashwantbezawada-181717?logo=github&logoColor=white)](https://github.com/yashwantbezawada)
 
