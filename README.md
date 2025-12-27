@@ -2,17 +2,6 @@
 
 Software engineer building AI tools and occasionally closing my own issues.
 
-## What I'm Building
+Currently exploring multi-agent systems, RAG pipelines, and figuring out why my context window is never big enough.
 
-- **AI productivity tools** - Automating the stuff I don't want to do twice
-- **FinOps tooling** - Watching API bills so you don't have to check your email at 3am
-- **OSS contributions** - Finally contributing instead of just starring repos
-
-## Currently Exploring
-
-Multi-agent systems, RAG pipelines, fine-tuning, and figuring out why my context window is never big enough.
-
----
-
-📍 Memphis, TN  
-🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
+📍 Memphis, TN · 🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
