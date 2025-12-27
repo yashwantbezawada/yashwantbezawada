@@ -16,10 +16,6 @@ Software engineer building developer tools and AI infrastructure.
 - 🤖 Working with LLMs, agents, and all that fun stuff
 - 📍 Based in Memphis, TN
 
-## `$ currently`
-
-Multi-agent systems, RAG, fine-tuning.
-
 ---
 
 ## `$ ping`
