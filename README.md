@@ -1,16 +1,25 @@
+```
+__   __        _                     _   
+\ \ / /_ _ ___| |____      ____ _ _ __ | |_ 
+ \ V / _` / __| '_ \ \ /\ / / _` | '_ \| __|
+  | | (_| \__ \ | | \ V  V / (_| | | | | |_ 
+  |_|\__,_|___/_| |_|\_/\_/ \__,_|_| |_|\__|
+```
+
 # Hey 👋
 
-Software engineer working on AI tooling and infrastructure.
+Software engineer building developer tools and AI infrastructure.
 
-## What I Do
+## `$ whoami`
 
-Building developer tools and automation, mostly around AI and LLMs these days.
+- 🔧 Building developer tools and automation
+- 🤖 Working with LLMs, agents, and all that fun stuff
+- 📍 Based in Memphis, TN
 
-## Currently Into
+## `$ currently`
 
-Multi-agent systems, RAG, and fine-tuning.
+Multi-agent systems, RAG, fine-tuning.
 
----
+## `$ ping`
 
-📍 Memphis, TN  
-🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
+- 🌐 [yashwantbezawada.com](https://yashwantbezawada.com)
