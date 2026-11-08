@@ -1,29 +1,12 @@
-```
-__   __       _                   _     ___                             _      
-\ \ / /_ _ __| |___ __ ____ _ _ _| |_  | _ ) ___ _____ ___ __ ____ _ __| |__ _ 
- \ V / _` (_-< ' \ V  V / _` | ' \  _| | _ \/ -_)_ / _` \ V  V / _` / _` / _` |
-  |_|\__,_/__/_||_\_/\_/\__,_|_||_\__| |___/\___/__\__,_|\_/\_/\__,_\__,_\__,_|
-```
+### Yashwant Bezawada
 
-# Hey 👋
+Software engineer at FedEx, working as a forward deployed engineer. Tinkerer.
 
-I'm a software engineer driven by curiosity, building developer tools and AI infrastructure. I spend a bit too much time on GitHub tackling a never-ending growing number of projects and ideas.
+Fixes merged upstream:
 
-I love Linux (I use Arch, btw), open-source software, and Neovim. A contributor to projects like PyTorch, Keras, and TensorFlow. An LLM enthusiast who's been lucky enough to get hands dirty building AI-powered tools - from RAG pipelines to multi-agent systems, along with the developer tooling to make it all work. Helping around as much as I can.
+- **vLLM** [#31057](https://github.com/vllm-project/vllm/pull/31057): CUDA-graph replay skipped the wait in layer-wise KV-cache loading, so attention could read cache data before it arrived. Those setups now fall back to piecewise graphs.
+- **JAX** [#33602](https://github.com/jax-ml/jax/pull/33602): `jnp.arange` with a non-zero start was folded into a constant array, blowing up compile times for large ranges. It now builds the range from `iota`.
+- **Transformers** [#42051](https://github.com/huggingface/transformers/pull/42051): tokenizers shared one `model_input_names` list, so changing it on one tokenizer changed every other one of that class.
+- **QuantLib** [#2410](https://github.com/lballabio/QuantLib/pull/2410): `GsrProcessCore` kept references to temporary arrays, so path generation crashed. It now keeps copies.
 
-## `$ whoami`
-
-- 🔧 Building developer tools and automation
-- 🤖 Working with LLMs, agents, and all that fun stuff
-- 📍 Based in Memphis, TN
-
----
-
-## `$ ping`
-
-[![Blog](https://img.shields.io/badge/Blog-yashwantbezawada.com-FF5722?logo=hashnode&logoColor=white)](https://yashwantbezawada.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashwantbezawada-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwantbezawada/)
-[![GitHub](https://img.shields.io/badge/GitHub-yashwantbezawada-181717?logo=github&logoColor=white)](https://github.com/yashwantbezawada)
-
-- **GitHub Issues** - For project-specific discussions
-- **Pull Requests** - The best way to propose changes
+[yashwantbezawada.com](https://yashwantbezawada.com) · [LinkedIn](https://www.linkedin.com/in/yashwantbezawada) · me@yashwantbezawada.com
