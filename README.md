@@ -1,6 +1,6 @@
 ### Yashwant Bezawada
 
-Forward deployed engineer at FedEx. Tinkerer.
+Forward Deployed Engineer at FedEx. Tinkerer.
 
 I keep models answering questions in production. Upstream, I once fixed a race between KV-cache loads and CUDA-graph replay in vLLM, and I still bring it up unprompted.
 
