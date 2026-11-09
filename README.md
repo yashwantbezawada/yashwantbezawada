@@ -2,7 +2,7 @@
 
 Forward Deployed Engineer at FedEx. Tinkerer.
 
-I keep models answering questions in production. Upstream, I once fixed a race between KV-cache loads and CUDA-graph replay in vLLM, and I still bring it up unprompted.
+I’m just a guy, standing in front of a terminal, asking it to stop Flibbertigibbeting and fix the button. Then I nod like I’m helping.
 
 A few fixes that got merged:
 
